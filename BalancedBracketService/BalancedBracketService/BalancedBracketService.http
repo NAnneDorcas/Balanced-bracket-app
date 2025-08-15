@@ -1,0 +1,6 @@
+@BalancedBracketService_HostAddress = http://localhost:5012
+
+GET {{BalancedBracketService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
